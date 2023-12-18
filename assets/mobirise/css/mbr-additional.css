@@ -1377,7 +1377,7 @@ b {
 }
 .cid-tXcUQIFBvf {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-tXcUQIFBvf .iconfont-wrapper {
@@ -1429,6 +1429,130 @@ b {
   display: none;
 }
 .cid-tXcUQIFBvf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tYNbtZxsdI {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-tYNbtZxsdI .iconfont-wrapper {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+.cid-tYNbtZxsdI .card-box {
+  z-index: 2;
+  position: relative;
+}
+.cid-tYNbtZxsdI .card-title,
+.cid-tYNbtZxsdI .card-text {
+  transition: all 0.3s;
+}
+.cid-tYNbtZxsdI .card-wrapper {
+  position: relative;
+  overflow: hidden;
+  padding: 4rem 2rem;
+  border-radius: 6px;
+  background: #1a375d;
+  transition: all 0.3s;
+}
+.cid-tYNbtZxsdI .card-wrapper:hover {
+  background: #1f3046;
+}
+.cid-tYNbtZxsdI .card-wrapper:hover .card-title,
+.cid-tYNbtZxsdI .card-wrapper:hover .card-text {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-tYNbtZxsdI .card-wrapper {
+    padding: 2rem 1rem;
+  }
+}
+.cid-tYNbtZxsdI .card-title,
+.cid-tYNbtZxsdI .iconfont-wrapper {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tYNbtZxsdI .card-text {
+  color: #353535;
+}
+.cid-tYNbtZxsdI .card-text,
+.cid-tYNbtZxsdI .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tYNbtZxsdI .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tYNbtZxsdI .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tYNcGWCIRs {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tYNcGWCIRs .iconfont-wrapper {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+.cid-tYNcGWCIRs .card-box {
+  z-index: 2;
+  position: relative;
+}
+.cid-tYNcGWCIRs .card-title,
+.cid-tYNcGWCIRs .card-text {
+  transition: all 0.3s;
+}
+.cid-tYNcGWCIRs .card-wrapper {
+  position: relative;
+  overflow: hidden;
+  padding: 4rem 2rem;
+  border-radius: 6px;
+  background: #1a375d;
+  transition: all 0.3s;
+}
+.cid-tYNcGWCIRs .card-wrapper:hover {
+  background: #1f3046;
+}
+.cid-tYNcGWCIRs .card-wrapper:hover .card-title,
+.cid-tYNcGWCIRs .card-wrapper:hover .card-text {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-tYNcGWCIRs .card-wrapper {
+    padding: 2rem 1rem;
+  }
+}
+.cid-tYNcGWCIRs .card-title,
+.cid-tYNcGWCIRs .iconfont-wrapper {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tYNcGWCIRs .card-text {
+  color: #353535;
+}
+.cid-tYNcGWCIRs .card-text,
+.cid-tYNcGWCIRs .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tYNcGWCIRs .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tYNcGWCIRs .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
